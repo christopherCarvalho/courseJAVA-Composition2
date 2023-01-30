@@ -1,1 +1,1 @@
-# courseJAVA-Composition2
+# Java course using composition.
